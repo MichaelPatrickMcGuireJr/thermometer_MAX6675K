@@ -1,0 +1,1 @@
+thermometer_MAX6675K
